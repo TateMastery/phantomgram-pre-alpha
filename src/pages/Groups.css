@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Base{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background-color: aqua;
+}
+
+.Groups_area{
+    width: 45%;
+    height: 100%;
+    background-color: red;
+}
+
+.Chat_areaG{
+    width: 100%;
+    height: 83vh;
+    background-color: #b5b5b5;
+    border: 1px solid gray;
+}
