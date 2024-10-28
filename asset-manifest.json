@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phantomgram-pre-alpha/static/css/main.12506dc9.css",
+    "main.js": "/phantomgram-pre-alpha/static/js/main.4a863d9c.js",
+    "index.html": "/phantomgram-pre-alpha/index.html",
+    "main.12506dc9.css.map": "/phantomgram-pre-alpha/static/css/main.12506dc9.css.map",
+    "main.4a863d9c.js.map": "/phantomgram-pre-alpha/static/js/main.4a863d9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12506dc9.css",
+    "static/js/main.4a863d9c.js"
+  ]
+}
